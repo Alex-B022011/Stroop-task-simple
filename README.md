@@ -7,3 +7,6 @@ It should run automatically in a new window.
 
 Enter participant name, ID (can be unique or not), and amount of trials that you will run.
 Then, follow the instructions on how to perform the stroop task.
+
+## How to save the data
+Once all of the trials set have been finished, the data automatically saves as a csv.
