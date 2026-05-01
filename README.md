@@ -1,7 +1,7 @@
 # Stroop Task Simple
 
 ## How to use
-Download javascript [Javascript Download]((https://www.java.com/en/))
+Download javascript [GitHub](https://github.com)
 Control/Command + O to open a file, select StroopTaskSimple.py
 It should run automatically in a new window.
 
